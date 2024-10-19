@@ -83,7 +83,7 @@ The Rule Engine API is a service designed to manage and evaluate business rules 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Omkar1279/rule-engine-ast.git
+   git clone https://github.com/prat0404/Rule-Engine-AST.git
    ```
 
 2. Navigate to the project directory:
